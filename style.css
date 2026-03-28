@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(135deg, #ff758c, #ff7eb3);
+    color: white;
+}
+
+.container {
+    text-align: center;
+    margin-top: 120px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.message {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.love {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+button {
+    padding: 12px 25px;
+    border: none;
+    background: white;
+    color: #ff4d6d;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
